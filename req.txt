@@ -1,0 +1,7 @@
+typing
+langgraph
+langchain-openai
+python-dotenv
+pandas
+openpyxl
+fastapi
